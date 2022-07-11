@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/deliciousss/static/css/main.eb23b427.css",
+    "main.js": "/deliciousss/static/js/main.dc6584f5.js",
+    "index.html": "/deliciousss/index.html",
+    "main.eb23b427.css.map": "/deliciousss/static/css/main.eb23b427.css.map",
+    "main.dc6584f5.js.map": "/deliciousss/static/js/main.dc6584f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb23b427.css",
+    "static/js/main.dc6584f5.js"
+  ]
+}
